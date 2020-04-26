@@ -1,0 +1,5 @@
+package com.qa.tapiwa.spring.services;
+
+public class LogService {
+
+}

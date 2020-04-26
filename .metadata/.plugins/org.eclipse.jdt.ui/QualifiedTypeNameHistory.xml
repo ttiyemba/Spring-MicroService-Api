@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.jms.annotation.EnableJms"/>
+    <fullyQualifiedTypeName name="org.springframework.jms.support.converter.MessageConverter"/>
+    <fullyQualifiedTypeName name="org.springframework.jms.support.converter.MappingJackson2MessageConverter"/>
+    <fullyQualifiedTypeName name="org.springframework.jms.support.converter.MessageType"/>
+</qualifiedTypeNameHistroy>
